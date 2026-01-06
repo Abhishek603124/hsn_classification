@@ -1,0 +1,20 @@
+# Data Processing
+pandas
+numpy
+pdfplumber
+
+# Knowledge Graph
+networkx
+pyvis           
+matplotlib      
+
+# RAG & AI
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+openai
+tiktoken
+
+# Utilities
+python-dotenv
